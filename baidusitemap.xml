@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/08/15/some-ways-enhance-wsl-experience/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/some-ways-enhance-wsl-experience/</loc>
     <lastmod>2024-08-21</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/07/04/cicd-in-kubernetes-based-jenkins-2/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/cicd-in-kubernetes-based-jenkins-2/</loc>
     <lastmod>2024-07-11</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/03/21/kubernetes-logging-collection-2/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/kubernetes-logging-collection-2/</loc>
     <lastmod>2024-06-05</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/05/22/kubernetes-logging-collection-4/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/kubernetes-logging-collection-4/</loc>
     <lastmod>2024-06-05</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/03/17/kubernetes-logging-collection-1/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/kubernetes-logging-collection-1/</loc>
     <lastmod>2024-06-05</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/05/13/kubernetes-logging-collection-3/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/kubernetes-logging-collection-3/</loc>
     <lastmod>2024-06-05</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/03/25/keda/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/keda/</loc>
     <lastmod>2024-04-05</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/02/27/cicd-in-kubernetes-based-jenkins-1/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/cicd-in-kubernetes-based-jenkins-1/</loc>
     <lastmod>2024-03-19</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/03/13/ceph-osd-down/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/ceph-osd-down/</loc>
     <lastmod>2024-03-19</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/03/08/volume-snapshots-with-rook-ceph/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/volume-snapshots-with-rook-ceph/</loc>
     <lastmod>2024-03-09</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/02/11/cicd-in-cloud-native/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/cicd-in-cloud-native/</loc>
     <lastmod>2024-02-13</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/02/02/common-command-lines-for-ceph/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/common-command-lines-for-ceph/</loc>
     <lastmod>2024-02-10</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2024/01/12/deploy-ceph-by-cephadm/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/deploy-ceph-by-cephadm/</loc>
     <lastmod>2024-01-18</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/07/07/useful-kubernetes-commands/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/useful-kubernetes-commands/</loc>
     <lastmod>2023-10-05</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/08/02/spark-operator/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/spark-operator/</loc>
     <lastmod>2023-08-06</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/05/22/common-ops-for-kubernetes/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/common-ops-for-kubernetes/</loc>
     <lastmod>2023-06-09</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/04/05/flink-operator/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/flink-operator/</loc>
     <lastmod>2023-04-09</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/03/25/kind/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/kind/</loc>
     <lastmod>2023-04-06</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/02/17/deploy-rook-ceph-on-k8s/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/deploy-rook-ceph-on-k8s/</loc>
     <lastmod>2023-03-11</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/02/17/deploy-k8s-with-kubeadm/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/deploy-k8s-with-kubeadm/</loc>
     <lastmod>2023-03-11</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/02/28/install-oh-my-zsh/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/install-oh-my-zsh/</loc>
     <lastmod>2023-03-08</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2023/02/21/deploy-doris/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/deploy-doris/</loc>
     <lastmod>2023-02-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2022/06/25/install-redis/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/install-redis/</loc>
     <lastmod>2022-10-07</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2022/06/27/redis-config/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/redis-config/</loc>
     <lastmod>2022-07-06</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2022/06/26/redis-command/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/redis-command/</loc>
     <lastmod>2022-06-27</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2022/05/07/install-mysql/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/install-mysql/</loc>
     <lastmod>2022-05-08</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2022/04/11/centos-common-tool/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/centos-common-tool/</loc>
     <lastmod>2022-04-12</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2022/04/05/nginx-proxy-config/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/nginx-proxy-config/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/en-us/en-us/2022/04/05/install-nginx/</loc>
+    <loc>https://blog.2nfree.com/en-us/en-us/install-nginx/</loc>
     <lastmod>2022-04-07</lastmod>
   </url>
 </urlset> 
