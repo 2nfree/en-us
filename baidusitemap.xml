@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.2nfree.com/en-us/en-us/kubernetes-logging-collection-5/</loc>
+    <lastmod>2024-09-23</lastmod>
+  </url>
+  <url>
     <loc>https://blog.2nfree.com/en-us/en-us/some-ways-enhance-wsl-experience/</loc>
     <lastmod>2024-08-21</lastmod>
   </url>
