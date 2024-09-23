@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/en-us/links/</loc>
+    <loc>https://blog.2nfree.com/en-us/tags/</loc>
     
     <lastmod>2024-08-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/en-us/tags/</loc>
+    <loc>https://blog.2nfree.com/en-us/links/</loc>
     
     <lastmod>2024-08-26</lastmod>
     
@@ -338,13 +338,6 @@
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/en-us/tags/Redis/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.2nfree.com/en-us/tags/Mysql/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -352,7 +345,21 @@
   </url>
   
   <url>
+    <loc>https://blog.2nfree.com/en-us/tags/Redis/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.2nfree.com/en-us/tags/Kubernetes/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.2nfree.com/en-us/tags/DevOps/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -373,13 +380,6 @@
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/en-us/tags/DevOps/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.2nfree.com/en-us/tags/Database/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -394,13 +394,6 @@
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/en-us/tags/Flink/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.2nfree.com/en-us/tags/Spark/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -409,6 +402,13 @@
   
   <url>
     <loc>https://blog.2nfree.com/en-us/tags/Jenkins/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.2nfree.com/en-us/tags/Flink/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -445,14 +445,14 @@
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/en-us/categories/Redis/</loc>
+    <loc>https://blog.2nfree.com/en-us/categories/Mysql/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/en-us/categories/Mysql/</loc>
+    <loc>https://blog.2nfree.com/en-us/categories/Redis/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -17,7 +17,7 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Kubernetes 日志收集（五），使用 Kafka 做中间层</title>
+    <title>Kubernetes 日志收集（五）- 使用 Kafka 做中间层</title>
     <link href="https://blog.2nfree.com/en-us/kubernetes-logging-collection-5/"/>
     <id>https://blog.2nfree.com/en-us/kubernetes-logging-collection-5/</id>
     <published>2024-09-23T07:33:32.000Z</published>
@@ -96,7 +96,7 @@
   </entry>
   
   <entry>
-    <title>Kubernetes 日志收集（四），基于 Fluent-bit Daemonset 的日志收集</title>
+    <title>Kubernetes 日志收集（四）- 基于 Fluent-bit Daemonset 的日志收集</title>
     <link href="https://blog.2nfree.com/en-us/kubernetes-logging-collection-4/"/>
     <id>https://blog.2nfree.com/en-us/kubernetes-logging-collection-4/</id>
     <published>2024-05-22T10:26:58.000Z</published>
@@ -119,7 +119,7 @@
   </entry>
   
   <entry>
-    <title>Kubernetes 日志收集（三），Logging operator 中使用 concat 多行合并相关问题</title>
+    <title>Kubernetes 日志收集（三）- Logging operator 中使用 concat 多行合并相关问题</title>
     <link href="https://blog.2nfree.com/en-us/kubernetes-logging-collection-3/"/>
     <id>https://blog.2nfree.com/en-us/kubernetes-logging-collection-3/</id>
     <published>2024-05-13T04:26:58.000Z</published>
@@ -165,7 +165,7 @@
   </entry>
   
   <entry>
-    <title>Kubernetes 日志收集（二），基于 Logging operator 的日志收集</title>
+    <title>Kubernetes 日志收集（二）- 基于 Logging operator 的日志收集</title>
     <link href="https://blog.2nfree.com/en-us/kubernetes-logging-collection-2/"/>
     <id>https://blog.2nfree.com/en-us/kubernetes-logging-collection-2/</id>
     <published>2024-03-21T03:26:58.000Z</published>
@@ -188,7 +188,7 @@
   </entry>
   
   <entry>
-    <title>Kubernetes 日志收集（一），基于 SideCar 模式的日志收集</title>
+    <title>Kubernetes 日志收集（一）- 基于 SideCar 模式的日志收集</title>
     <link href="https://blog.2nfree.com/en-us/kubernetes-logging-collection-1/"/>
     <id>https://blog.2nfree.com/en-us/kubernetes-logging-collection-1/</id>
     <published>2024-03-17T02:42:55.000Z</published>
