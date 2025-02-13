@@ -36,8 +36,8 @@ https://blog.2nfree.com/en-us
 https://blog.2nfree.com/en-us/tags/Linux/
 https://blog.2nfree.com/en-us/tags/Shell/
 https://blog.2nfree.com/en-us/tags/Nginx/
-https://blog.2nfree.com/en-us/tags/Redis/
 https://blog.2nfree.com/en-us/tags/Mysql/
+https://blog.2nfree.com/en-us/tags/Redis/
 https://blog.2nfree.com/en-us/tags/Kubernetes/
 https://blog.2nfree.com/en-us/tags/DevOps/
 https://blog.2nfree.com/en-us/tags/Storage/
@@ -51,7 +51,7 @@ https://blog.2nfree.com/en-us/tags/Logging/
 https://blog.2nfree.com/en-us/tags/HPA/
 https://blog.2nfree.com/en-us/tags/WSL/
 https://blog.2nfree.com/en-us/categories/Linux/
-https://blog.2nfree.com/en-us/categories/Redis/
 https://blog.2nfree.com/en-us/categories/Mysql/
+https://blog.2nfree.com/en-us/categories/Redis/
 https://blog.2nfree.com/en-us/categories/CloudNative/
 https://blog.2nfree.com/en-us/categories/BigData/
